@@ -1,3 +1,3 @@
-[submodule "vdjserver-agave"]
-	path = vdjserver-agave
-	url = https://bitbucket.org/vdjserver/vdjserver-agave
+[submodule "vdjserver-tapis"]
+	path = vdjserver-tapis
+	url = https://github.com/vdjserver/vdjserver-tapis.git
