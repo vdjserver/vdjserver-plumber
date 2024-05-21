@@ -24,7 +24,7 @@
 # along with this program.  If not, see <https:#www.gnu.org/licenses/>.
 #
 
-source('/vdjserver-plumber/vdjserver-agave/common/mutational_hedgehog.R')
+source('/vdjserver-plumber/vdjserver-tapis/scripts/mutational_hedgehog.R')
 
 #* @get /plumber/v1/mutational_hedgehog
 mutational_hedgehog <- function(uuid){
