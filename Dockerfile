@@ -1,6 +1,6 @@
 FROM rstudio/plumber
 
-LABEL maintainer="VDJServer"
+LABEL MAINTAINER="VDJServer <vdjserver@utsouthwestern.edu>"
 
 RUN R -e "install.packages('airr')"
 RUN R -e "install.packages('tidyverse')"
